@@ -2,6 +2,6 @@
 
 
 
-Kaggle competiotion
+Kaggle competition
 # Statoil
 # Statoil
